@@ -1,2 +1,2 @@
 # fronEndWeb
-exercise to build front end e-commerce w/ react
+build front end w/ react basic
